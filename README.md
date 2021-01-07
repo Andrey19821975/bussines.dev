@@ -1,1 +1,1 @@
-# bussines.dev
+# bussines.dev simple landing page
